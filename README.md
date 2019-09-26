@@ -1,3 +1,3 @@
 # DB-backup-restore
-Example Jenkins pipeline for moveng data between two instances
+Example Jenkins pipeline for moving data between two instances
  
